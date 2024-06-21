@@ -6,7 +6,6 @@ baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://jungsuplee-com.pages.dev" # the base hostname & protocol for your site
 github_username: jlee4255
 
-markdown: kramdown
 theme: jekyll-theme-minimal
 
 plugins:
