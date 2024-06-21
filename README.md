@@ -1,4 +1,4 @@
-# Jung Su Plee's Site
+# Jung SuP Lee's Site
 
 This repository contains the source code for my personal website.
 
