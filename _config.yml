@@ -1,7 +1,7 @@
-title: Jung Sup Lee's Website
+echo 'title: Jung Sup Lee\'s Website
 email: jlee4255@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
-  Welcome to Jung Sup Lee's personal website.
+  Welcome to Jung Sup Lee\'s personal website.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://jungsuplee-com.pages.dev" # the base hostname & protocol for your site
 github_username: jlee4255
@@ -9,4 +9,4 @@ github_username: jlee4255
 theme: jekyll-theme-minimal
 
 plugins:
-  - jekyll-feed
+  - jekyll-feed' > _config.yml
